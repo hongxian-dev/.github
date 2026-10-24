@@ -46,6 +46,8 @@ cd hongxian && npm ci && npm run build && npm run verify
 
 ---
 
+<sub>联系：hello@hongxian.dev · 安全漏洞请按 [SECURITY.md](https://github.com/hongxian-dev/hongxian/blob/main/SECURITY.md) 私下报告</sub>
+
 <sub>代码 Apache-2.0 · 协议文档 CC-BY-SA 4.0 · 品牌标识使用规则见 [brand/README.md](https://github.com/hongxian-dev/hongxian/blob/main/brand/README.md)</sub>
 
 <sub>千里姻缘一线牵。这一段，从今天起由你们自己牵。</sub>
